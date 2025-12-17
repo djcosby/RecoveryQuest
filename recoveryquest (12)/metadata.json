@@ -1,0 +1,7 @@
+{
+  "name": "RecoveryQuest",
+  "description": "A gamified recovery companion app focusing on wellness dimensions, skill-building, and community support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
