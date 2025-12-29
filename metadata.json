@@ -1,0 +1,7 @@
+{
+  "name": "RecoveryQuest v2",
+  "description": "A gamified recovery companion app featuring an interactive curriculum, comprehension quizzes, and practical skill-building scenarios for addiction recovery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
